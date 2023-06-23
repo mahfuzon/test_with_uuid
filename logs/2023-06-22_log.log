@@ -1,0 +1,259 @@
+time="2023-06-22 18:02:59" level=info msg=controller.Create
+time="2023-06-22 18:02:59" level=info msg="request body" requestBody="{mahfuzon akhiar mahfuzon0@gmail.com +6281278160990 male}"
+time="2023-06-22 18:02:59" level=info msg=contactService.Create
+time="2023-06-22 18:02:59" level=info msg="masuk ke contact repository create"
+time="2023-06-22 18:02:59" level=error msg="Error 1062 (23000): Duplicate entry 'mahfuzon0@gmail.com' for key 'email'"
+time="2023-06-22 18:02:59" level=error msg="Error 1062 (23000): Duplicate entry 'mahfuzon0@gmail.com' for key 'email'"
+time="2023-06-22 18:05:39" level=info msg=controller.Create
+time="2023-06-22 18:05:39" level=info msg="request body" requestBody="{mahfuzon akhiar mahfuzon0@gmail.com +6281278160990 male}"
+time="2023-06-22 18:05:39" level=info msg=contactService.Create
+time="2023-06-22 18:05:39" level=info msg="masuk ke contact repository create"
+time="2023-06-22 18:05:39" level=error msg="Error 1062 (23000): Duplicate entry 'mahfuzon0@gmail.com' for key 'email'"
+time="2023-06-22 18:05:39" level=error msg="Error 1062 (23000): Duplicate entry 'mahfuzon0@gmail.com' for key 'email'"
+time="2023-06-22 18:07:19" level=info msg=controller.Create
+time="2023-06-22 18:07:19" level=info msg="request body" requestBody="{mahfuzon akhiar mahfuzon0@gmail1.com +62812781609901 male}"
+time="2023-06-22 18:07:19" level=info msg=contactService.Create
+time="2023-06-22 18:07:19" level=info msg="masuk ke contact repository create"
+time="2023-06-22 18:07:19" level=info msg="success contactRepository.Create"
+time="2023-06-22 18:07:19" level=info msg="success contactService.Create"
+time="2023-06-22 18:07:19" level=info msg="success controller.Create"
+time="2023-06-22 18:17:00" level=info msg=controller.Create
+time="2023-06-22 18:17:00" level=info msg="request body" requestBody="{mahfuzon akhiar mahfuzon0@gmail1.com +62812781609901 male}"
+time="2023-06-22 18:17:00" level=info msg=contactService.Create
+time="2023-06-22 18:17:28" level=info msg=controller.Create
+time="2023-06-22 18:17:28" level=info msg="request body" requestBody="{mahfuzon akhiar mahfuzon0@gmail.com +62812781609901 male}"
+time="2023-06-22 18:17:28" level=info msg=contactService.Create
+time="2023-06-22 19:31:42" level=info msg=controller.Create
+time="2023-06-22 19:31:42" level=info msg="request body" requestBody="{mahfuzon akhiar mahfuzon0@gmail1.com +62812781609901 male}"
+time="2023-06-22 19:31:42" level=info msg=contactService.Create
+time="2023-06-22 19:31:42" level=info msg=contactRepository.CheckEmailAndPhoneAlreadyExists
+time="2023-06-22 19:31:42" level=info msg="success contactRepository.CheckEmailAndPhoneAlreadyExists"
+time="2023-06-22 19:31:42" level=info msg="masuk ke contact repository create"
+time="2023-06-22 19:31:42" level=info msg="success contactRepository.Create"
+time="2023-06-22 19:31:42" level=info msg="success contactService.Create"
+time="2023-06-22 19:31:42" level=info msg="success controller.Create"
+time="2023-06-22 19:31:43" level=info msg=controller.Create
+time="2023-06-22 19:31:43" level=info msg="request body" requestBody="{mahfuzon akhiar mahfuzon0@gmail1.com +62812781609901 male}"
+time="2023-06-22 19:31:43" level=info msg=contactService.Create
+time="2023-06-22 19:31:43" level=info msg=contactRepository.CheckEmailAndPhoneAlreadyExists
+time="2023-06-22 19:31:43" level=info msg="success contactRepository.CheckEmailAndPhoneAlreadyExists"
+time="2023-06-22 19:31:43" level=info msg="masuk ke contact repository create"
+time="2023-06-22 19:31:43" level=info msg="success contactRepository.Create"
+time="2023-06-22 19:31:43" level=info msg="success contactService.Create"
+time="2023-06-22 19:31:43" level=info msg="success controller.Create"
+time="2023-06-22 19:31:44" level=info msg=controller.Update
+time="2023-06-22 19:31:44" level=info msg="request body" requestBody="{0040457e-dfbf-4f58-bc9c-3b82836a90eb mahfuzon setelah di update mahfuzon0@gmail1.com +62812781609901 male}"
+time="2023-06-22 19:31:44" level=info msg=contactService.Update
+time="2023-06-22 19:31:44" level=info msg="masuk ke contact repository Find"
+time="2023-06-22 19:31:44" level=info msg="Error 1054 (42S22): Unknown column '0040457e' in 'where clause'"
+time="2023-06-22 19:31:44" level=info msg="contact not found"
+time="2023-06-22 19:33:27" level=info msg=controller.Update
+time="2023-06-22 19:33:27" level=info msg="request body" requestBody="{b3bb0154-7be7-44f3-b920-c8ee16340729 mahfuzon setelah di update mahfuzon0@gmail1.com +62812781609901 male}"
+time="2023-06-22 19:33:27" level=info msg=contactService.Update
+time="2023-06-22 19:33:27" level=info msg="masuk ke contact repository Find"
+time="2023-06-22 19:33:27" level=info msg="Error 1054 (42S22): Unknown column 'b3bb0154' in 'where clause'"
+time="2023-06-22 19:33:27" level=info msg="contact not found"
+time="2023-06-22 19:36:24" level=info msg=controller.Update
+time="2023-06-22 19:36:24" level=info msg="request body" requestBody="{5ec81cc0-8f97-43a6-8348-3a5159229550 mahfuzon setelah di update mahfuzon0@gmail1.com +62812781609901 male}"
+time="2023-06-22 19:36:24" level=info msg=contactService.Update
+time="2023-06-22 19:36:24" level=info msg="masuk ke contact repository Find"
+time="2023-06-22 19:36:24" level=info msg="Error 1054 (42S22): Unknown column '5ec81cc0' in 'where clause'"
+time="2023-06-22 19:36:24" level=info msg="contact not found"
+time="2023-06-22 19:38:17" level=info msg=controller.Update
+time="2023-06-22 19:38:17" level=info msg="request body" requestBody="{f9307dfc-b199-4941-a6a8-19a6a6eb82f0 mahfuzon setelah di update mahfuzon0@gmail1.com +62812781609901 male}"
+time="2023-06-22 19:38:17" level=info msg=contactService.Update
+time="2023-06-22 19:38:17" level=info msg="masuk ke contact repository Find"
+time="2023-06-22 19:38:17" level=info msg="success find by id"
+time="2023-06-22 19:38:17" level=info msg=contactRepository.CheckEmailAndPhoneAlreadyExists
+time="2023-06-22 19:38:17" level=info msg="success contactRepository.CheckEmailAndPhoneAlreadyExists"
+time="2023-06-22 19:38:17" level=info msg="email or phone already exists"
+time="2023-06-22 19:41:54" level=info msg=controller.Update
+time="2023-06-22 19:41:54" level=info msg="request body" requestBody="{6b47ae5f-6d24-458a-9113-8532f3895c42 mahfuzon setelah di update mahfuzon0@gmail1.com +62812781609901 male}"
+time="2023-06-22 19:41:54" level=info msg=contactService.Update
+time="2023-06-22 19:41:54" level=info msg="masuk ke contact repository Find"
+time="2023-06-22 19:41:54" level=info msg="success find by id"
+time="2023-06-22 19:41:54" level=info msg=contactRepository.CheckEmailAndPhoneAlreadyExists
+time="2023-06-22 19:41:54" level=info msg="success contactRepository.CheckEmailAndPhoneAlreadyExists"
+time="2023-06-22 19:41:54" level=info msg="masuk contact repository Update"
+time="2023-06-22 19:41:54" level=info msg="selesai contact repository Update"
+time="2023-06-22 19:41:54" level=info msg="success contactService.Update"
+time="2023-06-22 19:41:54" level=info msg="success controller.Update"
+time="2023-06-22 19:42:38" level=info msg=controller.Create
+time="2023-06-22 19:42:38" level=info msg="request body" requestBody="{mahfuzon akhiar mahfuzon0@gmail1.com +62812781609901 male}"
+time="2023-06-22 19:42:38" level=info msg=contactService.Create
+time="2023-06-22 19:42:38" level=info msg=contactRepository.CheckEmailAndPhoneAlreadyExists
+time="2023-06-22 19:42:38" level=info msg="success contactRepository.CheckEmailAndPhoneAlreadyExists"
+time="2023-06-22 19:42:38" level=info msg="masuk ke contact repository create"
+time="2023-06-22 19:42:38" level=info msg="success contactRepository.Create"
+time="2023-06-22 19:42:38" level=info msg="success contactService.Create"
+time="2023-06-22 19:42:38" level=info msg="success controller.Create"
+time="2023-06-22 19:42:39" level=info msg=controller.Create
+time="2023-06-22 19:42:39" level=info msg="request body" requestBody="{mahfuzon akhiar mahfuzon0@gmail1.com +62812781609901 male}"
+time="2023-06-22 19:42:39" level=info msg=contactService.Create
+time="2023-06-22 19:42:39" level=info msg=contactRepository.CheckEmailAndPhoneAlreadyExists
+time="2023-06-22 19:42:39" level=info msg="success contactRepository.CheckEmailAndPhoneAlreadyExists"
+time="2023-06-22 19:42:39" level=info msg="masuk ke contact repository create"
+time="2023-06-22 19:42:39" level=info msg="success contactRepository.Create"
+time="2023-06-22 19:42:39" level=info msg="success contactService.Create"
+time="2023-06-22 19:42:39" level=info msg="success controller.Create"
+time="2023-06-22 19:42:39" level=info msg=controller.Update
+time="2023-06-22 19:42:39" level=info msg="request body" requestBody="{b61e7f78-ea66-4f46-b075-3e274d432e69 mahfuzon setelah di update mahfuzon0@gmail1.com +62812781609901 male}"
+time="2023-06-22 19:42:39" level=info msg=contactService.Update
+time="2023-06-22 19:42:39" level=info msg="masuk ke contact repository Find"
+time="2023-06-22 19:42:39" level=info msg="success find by id"
+time="2023-06-22 19:42:39" level=info msg=contactRepository.CheckEmailAndPhoneAlreadyExists
+time="2023-06-22 19:42:39" level=info msg="success contactRepository.CheckEmailAndPhoneAlreadyExists"
+time="2023-06-22 19:42:39" level=info msg="masuk contact repository Update"
+time="2023-06-22 19:42:40" level=info msg="selesai contact repository Update"
+time="2023-06-22 19:42:40" level=info msg="success contactService.Update"
+time="2023-06-22 19:42:40" level=info msg="success controller.Update"
+time="2023-06-22 19:42:41" level=info msg=controller.Update
+time="2023-06-22 19:42:41" level=info msg="request body" requestBody="{5c6f0488-5aa9-4d24-a4c7-e92712089a07 mahfuzon akhiar setelah update mahfuzon0@gmail2.com +62812781609901 male}"
+time="2023-06-22 19:42:41" level=info msg=contactService.Update
+time="2023-06-22 19:42:41" level=info msg="masuk ke contact repository Find"
+time="2023-06-22 19:42:41" level=info msg="success find by id"
+time="2023-06-22 19:42:41" level=info msg=contactRepository.CheckEmailAndPhoneAlreadyExists
+time="2023-06-22 19:42:41" level=info msg="success contactRepository.CheckEmailAndPhoneAlreadyExists"
+time="2023-06-22 19:42:41" level=info msg="masuk contact repository Update"
+time="2023-06-22 19:42:41" level=info msg="Error 1062 (23000): Duplicate entry 'mahfuzon0@gmail2.com' for key 'email'"
+time="2023-06-22 19:42:41" level=info msg="Error 1062 (23000): Duplicate entry 'mahfuzon0@gmail2.com' for key 'email'"
+time="2023-06-22 19:44:24" level=info msg=controller.Create
+time="2023-06-22 19:44:24" level=info msg="request body" requestBody="{mahfuzon akhiar mahfuzon0@gmail.com +6281278160990 male}"
+time="2023-06-22 19:44:24" level=info msg=contactService.Create
+time="2023-06-22 19:44:24" level=info msg=contactRepository.CheckEmailAndPhoneAlreadyExists
+time="2023-06-22 19:44:24" level=info msg="success contactRepository.CheckEmailAndPhoneAlreadyExists"
+time="2023-06-22 19:44:24" level=info msg="email or phone already exists"
+time="2023-06-22 19:44:39" level=info msg=controller.Create
+time="2023-06-22 19:44:39" level=info msg="request body" requestBody="{mahfuzon akhiar mahfuzon0@gmail1.com +62812781609901 male}"
+time="2023-06-22 19:44:39" level=info msg=contactService.Create
+time="2023-06-22 19:44:39" level=info msg=contactRepository.CheckEmailAndPhoneAlreadyExists
+time="2023-06-22 19:44:39" level=info msg="success contactRepository.CheckEmailAndPhoneAlreadyExists"
+time="2023-06-22 19:44:39" level=info msg="masuk ke contact repository create"
+time="2023-06-22 19:44:40" level=info msg="success contactRepository.Create"
+time="2023-06-22 19:44:40" level=info msg="success contactService.Create"
+time="2023-06-22 19:44:40" level=info msg="success controller.Create"
+time="2023-06-22 19:44:40" level=info msg=controller.Create
+time="2023-06-22 19:44:40" level=info msg="request body" requestBody="{mahfuzon akhiar mahfuzon0@gmail.com +6281278160990 male}"
+time="2023-06-22 19:44:40" level=info msg=contactService.Create
+time="2023-06-22 19:44:40" level=info msg=contactRepository.CheckEmailAndPhoneAlreadyExists
+time="2023-06-22 19:44:40" level=info msg="success contactRepository.CheckEmailAndPhoneAlreadyExists"
+time="2023-06-22 19:44:40" level=info msg="email or phone already exists"
+time="2023-06-22 19:44:41" level=info msg=controller.Update
+time="2023-06-22 19:44:41" level=info msg="request body" requestBody="{a9478da9-246f-46f8-a6a8-188ef6694572 mahfuzon setelah di update mahfuzon0@gmail1.com +62812781609901 male}"
+time="2023-06-22 19:44:41" level=info msg=contactService.Update
+time="2023-06-22 19:44:41" level=info msg="masuk ke contact repository Find"
+time="2023-06-22 19:44:41" level=info msg="success find by id"
+time="2023-06-22 19:44:41" level=info msg=contactRepository.CheckEmailAndPhoneAlreadyExists
+time="2023-06-22 19:44:41" level=info msg="success contactRepository.CheckEmailAndPhoneAlreadyExists"
+time="2023-06-22 19:44:41" level=info msg="masuk contact repository Update"
+time="2023-06-22 19:44:41" level=info msg="selesai contact repository Update"
+time="2023-06-22 19:44:41" level=info msg="success contactService.Update"
+time="2023-06-22 19:44:41" level=info msg="success controller.Update"
+time="2023-06-22 19:44:42" level=info msg=controller.Update
+time="2023-06-22 19:44:42" level=info msg="request body" requestBody="{2d83d52f-58e6-4238-acc3-d7d8d2c5eec2 mahfuzon akhiar setelah update mahfuzon0@gmail2.com +62812781609901 male}"
+time="2023-06-22 19:44:42" level=info msg=contactService.Update
+time="2023-06-22 19:44:42" level=info msg="masuk ke contact repository Find"
+time="2023-06-22 19:44:42" level=info msg="success find by id"
+time="2023-06-22 19:44:42" level=info msg=contactRepository.CheckEmailAndPhoneAlreadyExists
+time="2023-06-22 19:44:42" level=info msg="success contactRepository.CheckEmailAndPhoneAlreadyExists"
+time="2023-06-22 19:44:42" level=info msg="masuk contact repository Update"
+time="2023-06-22 19:44:42" level=info msg="Error 1062 (23000): Duplicate entry 'mahfuzon0@gmail2.com' for key 'email'"
+time="2023-06-22 19:44:42" level=info msg="Error 1062 (23000): Duplicate entry 'mahfuzon0@gmail2.com' for key 'email'"
+time="2023-06-22 19:46:06" level=info msg=controller.Update
+time="2023-06-22 19:46:06" level=info msg="request body" requestBody="{77910751-7367-423d-b8e1-a63681d12507 mahfuzon akhiar setelah update mahfuzon0@gmail2.com +62812781609901 male}"
+time="2023-06-22 19:46:06" level=info msg=contactService.Update
+time="2023-06-22 19:46:06" level=info msg="masuk ke contact repository Find"
+time="2023-06-22 19:46:06" level=info msg="success find by id"
+time="2023-06-22 19:46:06" level=info msg=contactRepository.CheckEmailAndPhoneAlreadyExists
+time="2023-06-22 19:46:06" level=info msg="success contactRepository.CheckEmailAndPhoneAlreadyExists"
+time="2023-06-22 19:46:06" level=info msg="masuk contact repository Update"
+time="2023-06-22 19:46:06" level=info msg="Error 1062 (23000): Duplicate entry 'mahfuzon0@gmail2.com' for key 'email'"
+time="2023-06-22 19:46:06" level=info msg="Error 1062 (23000): Duplicate entry 'mahfuzon0@gmail2.com' for key 'email'"
+time="2023-06-22 19:51:08" level=info msg=controller.Update
+time="2023-06-22 19:51:08" level=info msg="request body" requestBody="{6f2d5e44-60c6-4745-bcea-107c1a60cd5b mahfuzon akhiar setelah update mahfuzon0@gmail2.com +62812781609901 male}"
+time="2023-06-22 19:51:08" level=info msg=contactService.Update
+time="2023-06-22 19:51:08" level=info msg="masuk ke contact repository Find"
+time="2023-06-22 19:51:08" level=info msg="success find by id"
+time="2023-06-22 19:51:08" level=info msg=contactRepository.CheckEmailAndPhoneAlreadyExists
+time="2023-06-22 19:51:08" level=info msg="success contactRepository.CheckEmailAndPhoneAlreadyExists"
+time="2023-06-22 19:51:08" level=info msg="masuk contact repository Update"
+time="2023-06-22 19:51:08" level=info msg="Error 1062 (23000): Duplicate entry 'mahfuzon0@gmail2.com' for key 'email'"
+time="2023-06-22 19:51:08" level=info msg="Error 1062 (23000): Duplicate entry 'mahfuzon0@gmail2.com' for key 'email'"
+time="2023-06-22 19:53:05" level=info msg=controller.Update
+time="2023-06-22 19:53:05" level=info msg="request body" requestBody="{728010f0-d1e8-4ffb-b2e7-2a875f14ce44 mahfuzon akhiar setelah update mahfuzon0@gmail2.com +62812781609901 male}"
+time="2023-06-22 19:53:05" level=info msg=contactService.Update
+time="2023-06-22 19:53:05" level=info msg="masuk ke contact repository Find"
+time="2023-06-22 19:53:05" level=info msg="success find by id"
+time="2023-06-22 19:53:05" level=info msg=contactRepository.CheckEmailAndPhoneAlreadyExists
+time="2023-06-22 19:53:05" level=info msg="success contactRepository.CheckEmailAndPhoneAlreadyExists"
+time="2023-06-22 19:53:05" level=info msg="masuk contact repository Update"
+time="2023-06-22 19:53:05" level=info msg="Error 1062 (23000): Duplicate entry 'mahfuzon0@gmail2.com' for key 'email'"
+time="2023-06-22 19:53:05" level=info msg="Error 1062 (23000): Duplicate entry 'mahfuzon0@gmail2.com' for key 'email'"
+time="2023-06-22 19:54:09" level=info msg=controller.Update
+time="2023-06-22 19:54:09" level=info msg="request body" requestBody="{06e7b68d-c05b-459b-bed0-8d4a7b05ed76 mahfuzon akhiar setelah update mahfuzon0@gmail2.com +62812781609901 male}"
+time="2023-06-22 19:54:09" level=info msg=contactService.Update
+time="2023-06-22 19:54:09" level=info msg="masuk ke contact repository Find"
+time="2023-06-22 19:54:09" level=info msg="success find by id"
+time="2023-06-22 19:54:09" level=info msg=contactRepository.CheckEmailAndPhoneAlreadyExists
+time="2023-06-22 19:54:09" level=info msg="success contactRepository.CheckEmailAndPhoneAlreadyExists"
+time="2023-06-22 19:54:09" level=info msg="masuk contact repository Update"
+time="2023-06-22 19:54:09" level=info msg="Error 1062 (23000): Duplicate entry 'mahfuzon0@gmail2.com' for key 'email'"
+time="2023-06-22 19:54:09" level=info msg="Error 1062 (23000): Duplicate entry 'mahfuzon0@gmail2.com' for key 'email'"
+time="2023-06-22 19:57:08" level=info msg=controller.Update
+time="2023-06-22 19:57:08" level=info msg="request body" requestBody="{5e3d4ec9-a4c6-4004-8f39-231f41c3e118 mahfuzon akhiar setelah update mahfuzon0@gmail2.com +62812781609901 male}"
+time="2023-06-22 19:57:08" level=info msg=contactService.Update
+time="2023-06-22 19:57:08" level=info msg="masuk ke contact repository Find"
+time="2023-06-22 19:57:08" level=info msg="success find by id"
+time="2023-06-22 19:57:08" level=info msg=contactRepository.CheckEmailAndPhoneAlreadyExists
+time="2023-06-22 19:57:08" level=info msg="success contactRepository.CheckEmailAndPhoneAlreadyExists"
+time="2023-06-22 19:57:08" level=info msg="masuk contact repository Update"
+time="2023-06-22 19:57:09" level=info msg="Error 1062 (23000): Duplicate entry 'mahfuzon0@gmail2.com' for key 'email'"
+time="2023-06-22 19:57:09" level=info msg="Error 1062 (23000): Duplicate entry 'mahfuzon0@gmail2.com' for key 'email'"
+time="2023-06-22 19:58:55" level=info msg=controller.Update
+time="2023-06-22 19:58:55" level=info msg="request body" requestBody="{0383f58e-d59f-4569-bf1d-5624e5224a53 mahfuzon akhiar setelah update mahfuzon0@gmail2.com +62812781609901 male}"
+time="2023-06-22 19:58:55" level=info msg=contactService.Update
+time="2023-06-22 19:58:55" level=info msg="masuk ke contact repository Find"
+time="2023-06-22 19:58:55" level=info msg="success find by id"
+time="2023-06-22 19:58:55" level=info msg=contactRepository.CheckEmailAndPhoneAlreadyExists
+time="2023-06-22 19:58:55" level=info msg="success contactRepository.CheckEmailAndPhoneAlreadyExists"
+time="2023-06-22 19:58:55" level=info msg="masuk contact repository Update"
+time="2023-06-22 19:58:55" level=info msg="Error 1062 (23000): Duplicate entry 'mahfuzon0@gmail2.com' for key 'email'"
+time="2023-06-22 19:58:55" level=info msg="Error 1062 (23000): Duplicate entry 'mahfuzon0@gmail2.com' for key 'email'"
+time="2023-06-22 19:59:55" level=info msg=controller.Update
+time="2023-06-22 19:59:55" level=info msg="request body" requestBody="{a7df0eb8-a830-4c03-b8b4-aff236f0e394 mahfuzon akhiar setelah update mahfuzon0@gmail2.com +62812781609901 male}"
+time="2023-06-22 19:59:55" level=info msg=contactService.Update
+time="2023-06-22 19:59:55" level=info msg="masuk ke contact repository Find"
+time="2023-06-22 19:59:55" level=info msg="success find by id"
+time="2023-06-22 19:59:55" level=info msg=contactRepository.CheckEmailAndPhoneAlreadyExists
+time="2023-06-22 19:59:55" level=info msg="success contactRepository.CheckEmailAndPhoneAlreadyExists"
+time="2023-06-22 19:59:55" level=info msg="masuk contact repository Update"
+time="2023-06-22 19:59:55" level=info msg="Error 1062 (23000): Duplicate entry 'mahfuzon0@gmail2.com' for key 'email'"
+time="2023-06-22 19:59:55" level=info msg="Error 1062 (23000): Duplicate entry 'mahfuzon0@gmail2.com' for key 'email'"
+time="2023-06-22 20:01:45" level=info msg=controller.Update
+time="2023-06-22 20:01:45" level=info msg="request body" requestBody="{6578cd77-615e-49c8-a7c7-3892a0113e4f mahfuzon akhiar setelah update mahfuzon0@gmail2.com +62812781609901 male}"
+time="2023-06-22 20:01:45" level=info msg=contactService.Update
+time="2023-06-22 20:01:45" level=info msg="masuk ke contact repository Find"
+time="2023-06-22 20:01:46" level=info msg="success find by id"
+time="2023-06-22 20:01:46" level=info msg=contactRepository.CheckEmailAndPhoneAlreadyExists
+time="2023-06-22 20:01:46" level=info msg="success contactRepository.CheckEmailAndPhoneAlreadyExists"
+time="2023-06-22 20:01:46" level=info msg="masuk contact repository Update"
+time="2023-06-22 20:01:46" level=info msg="Error 1062 (23000): Duplicate entry 'mahfuzon0@gmail2.com' for key 'email'"
+time="2023-06-22 20:01:46" level=info msg="Error 1062 (23000): Duplicate entry 'mahfuzon0@gmail2.com' for key 'email'"
+time="2023-06-22 20:12:23" level=info msg=controller.Update
+time="2023-06-22 20:12:23" level=info msg="request body" requestBody="{c9d9aaf7-68dd-4ad4-8037-6ef574457ff0 mahfuzon akhiar setelah update mahfuzon0@gmail2.com +62812781609901 male}"
+time="2023-06-22 20:12:23" level=info msg=contactService.Update
+time="2023-06-22 20:12:23" level=info msg="masuk ke contact repository Find"
+time="2023-06-22 20:12:23" level=info msg="success find by id"
+time="2023-06-22 20:12:23" level=info msg=contactRepository.CheckEmailAndPhoneAlreadyExists
+time="2023-06-22 20:12:23" level=info msg="success contactRepository.CheckEmailAndPhoneAlreadyExists"
+time="2023-06-22 20:12:23" level=info msg="masuk contact repository Update"
+time="2023-06-22 20:12:23" level=info msg="Error 1062 (23000): Duplicate entry 'mahfuzon0@gmail2.com' for key 'email'"
+time="2023-06-22 20:12:23" level=info msg="Error 1062 (23000): Duplicate entry 'mahfuzon0@gmail2.com' for key 'email'"
+time="2023-06-22 20:15:06" level=info msg=controller.Update
+time="2023-06-22 20:15:06" level=info msg="request body" requestBody="{f5856ef9-c858-446c-b1e7-fefd2dcf75ea mahfuzon akhiar setelah update mahfuzon0@gmail2.com +62812781609901 male}"
+time="2023-06-22 20:15:06" level=info msg=contactService.Update
+time="2023-06-22 20:15:06" level=info msg="masuk ke contact repository Find"
+time="2023-06-22 20:15:07" level=info msg="success find by id"
+time="2023-06-22 20:15:07" level=info msg=contactRepository.CheckEmailAndPhoneAlreadyExists
+time="2023-06-22 20:15:07" level=info msg="success contactRepository.CheckEmailAndPhoneAlreadyExists"
+time="2023-06-22 20:15:07" level=info msg="email or phone already exists"
